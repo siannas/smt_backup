@@ -1210,7 +1210,14 @@
   </header>
   <!-- END: HEADER -->
   <!-- END: LAYOUT/HEADERS/HEADER-1 -->
+  <!-- BEGIN: PAGE CONTAINER -->
+  <div class="c-layout-page">
+  <!-- BEGIN: PAGE CONTENT -->
+  @yield('content')
+  <!-- END: PAGE CONTENT -->
   <!-- BEGIN: LAYOUT/FOOTERS/FOOTER-6 -->
+  </div>
+  <!-- END: PAGE CONTAINER -->
   <a name="footer"></a>
   <footer class="c-layout-footer c-layout-footer-6 c-bg-grey-1">
       <div class="container">
