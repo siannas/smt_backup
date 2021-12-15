@@ -16,3 +16,23 @@ Auth::routes();
 Route::get('/', function () {
     return view('home');
 });
+
+Route::get('/bundle/shop', function () {
+    return view('bundleShop');
+});
+
+Route::get('/bundle/detail', function () {
+    return view('bundleDetail');
+});
+
+Route::get('/cart', function () {
+    return view('cart');
+});
+
+Route::get('/checkout', function () {
+    return view('checkout');
+});
+
+Route::get('/checkout/complete', function () {
+    return view('checkoutComplete');
+});
