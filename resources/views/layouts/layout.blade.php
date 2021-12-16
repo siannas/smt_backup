@@ -34,7 +34,7 @@
     <link href="{{asset('public/assets/demos/index/css/plugins.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('public/assets/demos/index/css/components.css')}}" id="style_components" rel="stylesheet" type="text/css" />
     <link href="{{asset('public/assets/demos/index/css/themes/default.css')}}" rel="stylesheet" id="style_theme" type="text/css" />
-    <link href="{{asset('public/assets/demos/index/css/custom.css')}}" rel="stylesheet" type="text/css" />
+    <link href="{{asset('public/css/custom.css')}}" rel="stylesheet" type="text/css" />
     <!-- END THEME STYLES -->
     <link rel="shortcut icon" href="{{asset('public/img/favicon.png')}}" />
 </head>
@@ -1419,7 +1419,7 @@
   <script src="{{asset('public/assets/plugins/revo-slider/js/extensions/revolution.extension.parallax.min.js')}}" type="text/javascript"></script>
   <script src="{{asset('public/assets/plugins/revo-slider/js/extensions/revolution.extension.kenburn.min.js')}}" type="text/javascript"></script>
   <script src="{{asset('public/assets/plugins/zoom-master/jquery.zoom.min.js')}}" type="text/javascript"></script>
-  <script src="{{asset('public/assets/demos/index/js/custom.js')}}" type="text/javascript"></script>
+  <script src="{{asset('public/js/custom.js')}}" type="text/javascript"></script>
   <!-- END: PAGE SCRIPTS -->
   <!-- END: LAYOUT/BASE/BOTTOM -->
   @yield('script')

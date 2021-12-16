@@ -1,0 +1,70 @@
+.d-block{
+    display: block;
+}
+
+.position-relative{
+    position: relative;
+}
+
+.position-absolute{
+    position: absolute;
+}
+
+.bottom-0{
+    bottom: 0;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.c-collapse-1 > .collapse-content{
+    max-height: 4em;
+    overflow: hidden;
+}
+
+.c-collapse-1.show > .collapse-content{
+    max-height: unset;
+}
+
+.c-collapse-1 .c-toggle-open{
+    display: unset;
+}
+
+.c-collapse-1.show .c-toggle-open{
+    display: none;
+}
+
+.c-collapse-1 .c-toggle-close{
+    display: none;
+}
+
+.c-collapse-1.show .c-toggle-close{
+    display: unset;
+}
+
+.img-resp-1{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 100%;
+}
+
+.img-resp-1>img{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.txt-ellipsis-1{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.owl-mt-0 .owl-controls{
+    margin-top: 0;
+}
