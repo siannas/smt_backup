@@ -59,7 +59,7 @@
 								<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop5/18.png')}});"></div>
@@ -72,10 +72,7 @@
 							</div>
 							<div class="btn-group btn-group-justified" role="group">
 								<div class="btn-group c-border-top" role="group">
-									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-								</div>
-								<div class="btn-group c-border-left c-border-top" role="group">
-									<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product c-font-bold "> <i class="fa fa-plus"></i> Keranjang</a>
 								</div>
 							</div>
 						</div>
@@ -85,7 +82,7 @@
 							<div class="c-content-overlay">
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop5/27.png')}});"></div>
@@ -98,10 +95,7 @@
 							</div>
 							<div class="btn-group btn-group-justified" role="group">
 								<div class="btn-group c-border-top" role="group">
-									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-								</div>
-								<div class="btn-group c-border-left c-border-top" role="group">
-									<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product c-font-bold "> <i class="fa fa-plus"></i> Keranjang</a>
 								</div>
 							</div>
 						</div>
@@ -111,7 +105,7 @@
 							<div class="c-content-overlay">
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop5/21.png')}});"></div>
@@ -124,10 +118,7 @@
 							</div>
 							<div class="btn-group btn-group-justified" role="group">
 								<div class="btn-group c-border-top" role="group">
-									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-								</div>
-								<div class="btn-group c-border-left c-border-top" role="group">
-									<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product c-font-bold "> <i class="fa fa-plus"></i> Keranjang</a>
 								</div>
 							</div>
 						</div>
@@ -139,7 +130,7 @@
 								<div class="c-label c-label-right c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">New</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop5/22.png')}});"></div>
@@ -152,10 +143,7 @@
 							</div>
 							<div class="btn-group btn-group-justified" role="group">
 								<div class="btn-group c-border-top" role="group">
-									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-								</div>
-								<div class="btn-group c-border-left c-border-top" role="group">
-									<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product c-font-bold "> <i class="fa fa-plus"></i> Keranjang</a>
 								</div>
 							</div>
 						</div>
@@ -165,7 +153,7 @@
 							<div class="c-content-overlay">
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop5/20.png')}});"></div>
@@ -178,10 +166,7 @@
 							</div>
 							<div class="btn-group btn-group-justified" role="group">
 								<div class="btn-group c-border-top" role="group">
-									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-								</div>
-								<div class="btn-group c-border-left c-border-top" role="group">
-									<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product c-font-bold "> <i class="fa fa-plus"></i> Keranjang</a>
 								</div>
 							</div>
 						</div>
@@ -192,7 +177,7 @@
 								<div class="c-label c-bg-red-2 c-font-uppercase c-font-white c-padding-10 c-font-13 c-font-bold">Hot</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop5/24.png')}});"></div>
@@ -205,10 +190,7 @@
 							</div>
 							<div class="btn-group btn-group-justified" role="group">
 								<div class="btn-group c-border-top" role="group">
-									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-								</div>
-								<div class="btn-group c-border-left c-border-top" role="group">
-									<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+									<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product c-font-bold "> <i class="fa fa-plus"></i> Keranjang</a>
 								</div>
 							</div>
 						</div>
@@ -253,19 +235,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/93.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Smartphone & Handset</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Penyakit Dalam</p>
 					</div>
 				</div>
 			</div>
@@ -279,19 +250,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/95.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Canvas Shoes</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Bayi Tabung</p>
 					</div>
 				</div>
 			</div>
@@ -305,19 +265,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/91.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Shoes & Tie</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Imunologi</p>
 					</div>
 				</div>
 			</div>
@@ -332,19 +281,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/88.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Smartphone & Handset</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Mata</p>
 					</div>
 				</div>
 			</div>
@@ -362,19 +300,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/89.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Watches & Accessories</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Patologi</p>
 					</div>
 				</div>
 			</div>
@@ -388,19 +315,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/96.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Exclusive Watches</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Syaraf</p>
 					</div>
 				</div>
 			</div>
@@ -414,19 +330,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/102.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Watches & Accessories</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Jantung</p>
 					</div>
 				</div>
 			</div>
@@ -441,19 +346,8 @@
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/100.jpg')}});"></div>
 					</div>
-					<div class="c-info">
-						<p class="c-title c-font-18 c-font-slim">Titanium Watch</p>
-						<p class="c-price c-font-16 c-font-slim">$548 &nbsp;
-							<span class="c-font-16 c-font-line-through c-font-red">$600</span>
-						</p>
-					</div>
-					<div class="btn-group btn-group-justified" role="group">
-						<div class="btn-group c-border-top" role="group">
-							<a href="shop-product-wishlist.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-						</div>
-						<div class="btn-group c-border-left c-border-top" role="group">
-							<a href="shop-cart.html" class="btn btn-lg c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
-						</div>
+					<div class="c-info c-center">
+						<p class="c-title c-font-18 c-font-slim">Psikologi</p>
 					</div>
 				</div>
 			</div>
