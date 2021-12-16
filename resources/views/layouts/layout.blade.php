@@ -1419,6 +1419,7 @@
   <script src="{{asset('public/assets/plugins/revo-slider/js/extensions/revolution.extension.parallax.min.js')}}" type="text/javascript"></script>
   <script src="{{asset('public/assets/plugins/revo-slider/js/extensions/revolution.extension.kenburn.min.js')}}" type="text/javascript"></script>
   <script src="{{asset('public/assets/plugins/zoom-master/jquery.zoom.min.js')}}" type="text/javascript"></script>
+  <script src="{{asset('public/assets/demos/index/js/custom.js')}}" type="text/javascript"></script>
   <!-- END: PAGE SCRIPTS -->
   <!-- END: LAYOUT/BASE/BOTTOM -->
   @yield('script')

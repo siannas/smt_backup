@@ -72,34 +72,36 @@
 								<i class="fa fa-star-half-o c-font-red"></i>
 							</div>
 							<div class="c-product-write-review">
-								<a class="c-font-red" href="#">Write a review</a>
+								<a class="c-font-red" href="javascript:void(0);">4.932 reviews</a>
 							</div>
 						</div>
-						<div class="c-product-price">$99.00</div>
+						<div class="c-product-price">Rp9.350.000</div>
 						<div class="c-product-short-desc">
 							Lorem ipsum dolor ut sit ame dolore adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat Nostrud duis molestie at dolore.
 						</div>
-						<div class="row c-product-variant">
-							<div class="col-sm-12 col-xs-12">
-								<p class="c-product-meta-label c-product-margin-1 c-font-uppercase c-font-bold">Size:</p>
-								<div class="c-product-size">
-									<select>
-										<option value="S">S</option>
-										<option value="M">M</option>
-										<option value="L">L</option>
-										<option value="XL">XL</option>
-									</select>
-								</div>
+						<div class="d-block">
+							<div class="c-content-title-1">
+								<div class="c-line-left c-theme-bg"></div>
+								
 							</div>
-							<div class="col-sm-12 col-xs-12 c-margin-t-20">
-								<div class="c-product-color"> 
-									<p class="c-product-meta-label c-font-uppercase c-font-bold">Color:</p>
-									<select>
-										<option value="Red">Red</option>
-										<option value="Black">Black</option>
-										<option value="Beige">Beige</option>
-										<option value="White">White</option>
-									</select>
+						</div>
+						<div class="d-block">
+							<div class="c-content-title-1">
+								<div class="c-line-left c-theme-bg"></div>
+								<div class="d-block" >
+									<p class="c-product-margin-2 c-font-uppercase c-font-bold">Tim Dokter</p>
+								</div>
+								<div data-slider="owl">
+								<div class="owl-carousel owl-theme c-theme c-owl-nav-center owl-mt-0" data-items="4" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="2"  data-auto-play="false" data-rtl="false" data-slide-speed="0" data-auto-play-hover-pause="true"> 
+									@for($i=0;$i<16;$i++)
+			 						<div class="item">
+										<div class="img-resp-1">
+											<img src="{{asset('public/assets/base/img/content/shop/02.jpg')}}">
+										</div>
+										<p class="txt-ellipsis-1">dr.Risa Brotoasmoro</p>
+									</div>
+									@endfor
+								</div>
 								</div>
 							</div>
 						</div>
@@ -144,85 +146,80 @@
 			</ul>
 		</div>
 		<div class="tab-content">
-			<div role="tabpanel" class="tab-pane fade in active" id="tab-1"> 
-				<div class="c-product-desc c-center">
-					<div class="container">
-						<img src="{{asset('public/assets/base/img/content/shop5/30.png')}}"/>
-						<p>
-							Lorem ipsum dolor sit amet, consectetuer
-							adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-							magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud
-							exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-							consequat.
-						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetuer
-							adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-							magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud
-							exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-							consequat. Lorem ipsum dolor sit amet, consectetuer
-							adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-							magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud
-							exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-							consequat.
-						</p>
+			<div role="tabpanel" class="tab-pane c-bg-white fade in active" id="tab-1"> 
+				<div class="container ">
+					<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Fasilitas</h2>
+					<div class="row">
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspKolam Renang</a>
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspCafe</a>
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspIndoor Playground</a>
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspMusholla</a>
 					</div>
+					<h3 class="c-margin-t-20 c-border-bottom"></h3>
 				</div>
-				<div class="c-product-desc c-bg-dark">
-					<div class="container">
-						<div class"row">
-							<div class="col-md-6">
-								<img src="{{asset('public/assets/base/img/content/shop5/32.png')}}"/>
+				<div class="container ">
+				<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Tentang</h2>
+					<div class="c-shop-cart-page-1">
+						<!-- BEGIN: ITEM ROW -->
+						<div class="row">
+							<h2 class="c-font-uppercase c-font-bold c-theme-bg c-font-white c-cart-item-title c-cart-item-first">Item 1</h2>
+							<div class="col-md-2 c-cart-image">
+								<h3>Kebijakan</h3>
 							</div>
-							<div class="col-md-6">
-								<div class="c-content-title-1">
-									<h3 class="c-font-uppercase c-font-white c-font-bold">Incredibly Versatile</h3>
-									<div class="c-line-left"></div>
+							<div class="col-md-10 c-cart-desc c-border-bottom c-collapse-1 position-relative">
+								<div class="collapse-content">
+									<h4><b>Anak</b></h4>
+									<p>Tamu umur berapa pun bisa menginap di sini.</p><p>Anak-anak 13 tahun ke atas dianggap sebagai tamu dewasa.</p><p>Pastikan umur anak yang menginap sesuai dengan detail pemesanan. Jika berbeda, tamu mungkin akan dikenakan biaya tambahan saat check-in.</p>
+									<br>
+									<h4><b>Deposit</b></h4>
+									<p>Tamu perlu membayar deposit saat check-in.</p>
+									<br>
+									<h4><b>Umur</b></h4>
+									<p>Tamu umur berapa pun bisa menginap di sini.</p>
+									<br>
+									<h4><b>Sarapan</b></h4>
+									<p>Sarapan tersedia pukul 06:00 - 10:00 waktu lokal.</p>
+									<br>
+									<h4><b>Hewan peliharaan</b></h4>
+									<p>Tidak diperbolehkan membawa hewan peliharaan.</p>
+									<br>
+									<h4><b>Merokok</b></h4>
+									<p>Tamu diperbolehkan merokok.</p>
+									<br>
+									<h4><b>Alkohol</b></h4>
+									<p>Minuman beralkohol tidak diperbolehkan.</p>
+									<br>
 								</div>
-								<p class="c-font-grey">
-									Lorem ipsum dolor sit amet, consectetuer
-									adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-									magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud
-									exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-									consequat. Lorem ipsum dolor sit amet, consectetuer
-									adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-									magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud
-									exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-									consequat.
-								</p>
-								<br>
-								<button class="btn c-btn btn-lg c-theme-btn c-font-uppercase c-font-bold c-btn-square">Add to Cart</button>
+								<div class="c-center c-margin-b-20 c-margin-t-30 w-100">
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-open"><i class="fa fa-chevron-down"></i>&nbsp Lihat Semua</button>
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-close"><i class="fa fa-chevron-up"></i>&nbsp Sembunyikan</button>
+								</div>
+							</div>
+							<div class="col-md-2 c-cart-image c-margin-t-30">
+								<h3>Deskripsi</h3>
+							</div>
+							<div class="col-md-10 c-cart-desc c-collapse-1 position-relative c-margin-t-30">
+								<div class="collapse-content">
+									<p>Berada di lokasi yang strategis di Jalan Jaksa, Jakarta Pusat, Dafam Express Jaksa Jakarta dikelilingi pertokoan dan perkantoran. Monas dan Grand Indonesia dapat ditempuh hanya dalam waktu 5 menit berkendara dari hotel. Resepsionis 24 jam siap menyambut kamu di properti ini. WiFi gratis tersedia di seluruh area hotel.
+
+Setiap kamar memiliki jendela dengan pemandangan Jakarta dan dihiasi dinding dengan warna cerah atau lukisan. AC, TV layar datar dan meja kerja tersedia di semua kamar yang ditata dengan gaya minimalis. Setiap kamar mandi dilengkapi shower dan peralatan mandi gratis.
+
+Dafam Express Jaksa Jakarta menyajikan beragam pilihan makanan di Bites & Break. Selain itu, kamu dapat mengunjungi Pusat Kuliner Sabang dan Nasi Goreng Kambing Kebon Sirih hanya dengan berjalan kaki selama 5 menit. Kamu juga dapat mencicipi hidangan dari berbagai budaya, seperti Korea dan Arab, dari restoran-restoran yang tersedia di sekitar hotel. 
+
+Layanan laundry dan penyetrikaan dengan biaya ekstra bisa kamu gunakan selama menginap di hotel. Untuk mengatur kunjungan wisata, kamu bisa langsung menghubungi meja layanan wisata di Dafam Express Jaksa Jakarta. 
+
+Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan berkendara selama 9 menit. Stasiun Gambir dapat dicapai dengan berkendara 5 menit. Bandara terdekat dari hotel adalah Halim Perdanakusuma Airport sejauh 15,3 km, sedangkan Soekarno-Hatta International Airport berjarak 31 km. </p>
+									<br>
+								</div>
+								<div class="c-center c-margin-b-20 c-margin-t-30 w-100">
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-open"><i class="fa fa-chevron-down"></i>&nbsp Lihat Semua</button>
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-close"><i class="fa fa-chevron-up"></i>&nbsp Sembunyikan</button>
+								</div>
 							</div>
 						</div>
+						<!-- END: ITEM ROW -->					
 					</div>
-				</div>
-				<div class="c-product-desc c-bg-grey">
-					<div class="container">
-						<div class"row">
-							<div class="col-md-6">
-								<div class="c-content-title-1">
-									<h3 class="c-font-uppercase c-font-bold c-right">High Quality</h3>
-									<div class="c-line-right"></div>
-								</div>
-								<p class="c-right">
-									Lorem ipsum dolor sit amet, consectetuer
-									adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-									magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud
-									exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-									consequat. Lorem ipsum dolor sit amet, consectetuer
-									adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-									magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud
-									exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-									consequat.
-								</p>
-								<br>
-								<button class="btn c-float-r c-btn btn-lg c-theme-btn c-font-uppercase c-font-bold c-btn-square">Add to Cart</button>
-							</div>
-							<div class="col-md-6">
-								<img src="{{asset('public/assets/base/img/content/shop5/31.png')}}"/>
-							</div>
-						</div>
-					</div>
+					<h3 class="c-margin-t-40 c-border-bottom"></h3>
 				</div>
 			</div>
 
