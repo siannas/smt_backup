@@ -29,7 +29,7 @@
 
 	<!-- BEGIN: PAGE CONTAINER -->
 		<!-- BEGIN: PAGE CONTENT -->
-    <div class="c-content-box c-size-md" style="background-image: url('https://tpspintar.com/public/img/login.jpg'); background-size: cover; min-height: 100vh; height: auto;">
+    <div class="c-content-box c-size-md" style="background-image: url('https://bootstrapmade.com/demo/templates/Medilab/assets/img/hero-bg.jpg'); background-size: cover; min-height: 100vh; height: auto;">
       <div class="container">
         <div class="c-content-panel" style="max-width:500px; margin:auto; background-color:white;">
           <div class="c-body" style="max-width:600px; margin:auto;">
@@ -39,7 +39,7 @@
             </div>
             <form class="form-horizontal">
               <div class="form-group">
-                <label for="inputEmail3" class="col-md-4 control-label">Email</label>
+                <label for="inputEmail3" class="col-md-4 control-label" autofocus>Email</label>
                 <div class="col-md-6">
                   <input type="email" class="form-control  c-square c-theme" id="inputEmail3" placeholder="Email">
                 </div>
@@ -52,17 +52,19 @@
               </div>
               
               <div class="form-group c-margin-t-40 text-center">
-                
                   <button type="submit" class="btn c-theme-btn c-btn-square c-btn-uppercase c-btn-bold">Login</button> 
-                
               </div>
             </form>
+			<div class="text-center" style="margin-top:50px;">
+                <span class="c-text-account">Belum Punya Akun ?</span>
+                <a href="{{url('/register')}}" class="">Daftar</a>
+            </div>                
           </div>
         </div>
       </div>
 	<div class="c-postfooter" style="bottom:0; margin:2rem; position:absolute;">
 		<div class="container">
-			<p class="c-copyright c-font-grey">2021 &copy; SMT
+			<p class="c-copyright c-font-grey-3">2021 &copy; SMT
 				<span class="c-font-grey-3">All Rights Reserved.</span>
 			</p>
 		</div>
