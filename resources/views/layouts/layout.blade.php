@@ -83,125 +83,7 @@
                   <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
                       <ul class="nav navbar-nav c-theme-nav">
                           <li>
-                              <a href="javascript:;" class="c-link dropdown-toggle">Home
-                                  <span class="c-arrow c-toggler"></span>
-                              </a>
-                              <div class="dropdown-menu c-menu-type-mega c-menu-type-fullwidth" style="min-width: auto">
-                                  <div class="row">
-                                      <div class="col-md-3">
-                                          <ul class="dropdown-menu c-menu-type-inline">
-                                              <li>
-                                                  <h3>Home Samples</h3>
-                                              </li>
-                                              <li class="c-active">
-                                                  <a href="demos/corporate_1/index.html">NEW Corporate Demo 1</a>
-                                              </li>
-                                              <li class="c-active">
-                                                  <a href="demos/default/index.html">Home Version 1</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-2.html">Home Version 2</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-3.html">Home Version 3</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-4.html">Home Version 4</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-5.html">Home Version 5</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-6.html">Home Version 6</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-7.html">Home Version 7</a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                      <div class="col-md-3">
-                                          <ul class="dropdown-menu c-menu-type-inline">
-                                              <li>
-                                                  <h3>Home Samples</h3>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-8.html">Home Version 8</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-9.html">Home Version 9</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-10.html">Home Version 10</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-11.html">Home Version 11</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-12.html">Home Version 12</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-13.html">Home Version 13</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/home-14.html">Home Version 14</a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                      <div class="col-md-3">
-                                          <ul class="dropdown-menu c-menu-type-inline">
-                                              <li>
-                                                  <h3>Onepage Samples</h3>
-                                              </li>
-                                              <li class="c-active">
-                                                  <a href="demos/agency_1/index.html" target="_blank">New Agency Onepage Demo</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-1.html" target="_blank">Onepage Version 1</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-2.html" target="_blank">Onepage Version 2</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-3.html" target="_blank">Onepage Version 3</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-4.html" target="_blank">Onepage Version 4</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-5.html" target="_blank">Onepage Version 5</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-6.html" target="_blank">Onepage Version 6</a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                      <div class="col-md-3">
-                                          <ul class="dropdown-menu c-menu-type-inline">
-                                              <li>
-                                                  <h3>Onepage Samples</h3>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-7.html" target="_blank">Onepage Version 7</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-8.html" target="_blank">Onepage Version 8</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-9.html" target="_blank">Onepage Version 9</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-10.html" target="_blank">Onepage Version 10</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-11.html" target="_blank">Onepage Version 11</a>
-                                              </li>
-                                              <li>
-                                                  <a href="demos/default/onepage-12.html" target="_blank">Onepage Version 12</a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
+                              <a href="{{url('/')}}" class="c-link dropdown-toggle">Home</a>
                           </li>
                           <li class="c-menu-type-classic">
                               <a href="javascript:;" class="c-link dropdown-toggle">Features
@@ -478,245 +360,6 @@
                                           </li>
                                           <li>
                                               <a href="#">Example Link</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                              </ul>
-                          </li>
-                          <li>
-                              <a href="javascript:;" class="c-link dropdown-toggle">Pages
-                                  <span class="c-arrow c-toggler"></span>
-                              </a>
-                              <ul class="dropdown-menu c-menu-type-mega c-menu-type-fullwidth" style="min-width: auto">
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Page Samples 1</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-about-1.html">About Us 1</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-about-2.html">About Us 2</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-about-3.html">About Us 3</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-about-4.html">About Us 4</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-team.html">Meet The Team</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Page Samples 2</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-contact-1.html">Contact Us 1</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-contact-2.html">Contact Us 2</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-contact-3.html">Contact Us 3</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-faq.html">FAQ</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-faq-2.html">FAQ 2</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Gallery Pages</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-product-launch.html">Product Launch</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-lightbox-gallery.html">Lightbox Gallery</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-fullwidth-gallery.html">Full Width Gallery</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-masonry-gallery.html">Masonry Gallery</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-index-gallery.html">Gallery Index</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Portfolio Pages</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-4col-portfolio.html">4 Columns Portfolio</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-2col-portfolio.html">2 Columns Portfolio</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-masonry-portfolio.html">Masonry Portfolio</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-extended-portfolio.html">Extended Portfolio</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Blog Pages</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-blog-list.html">Blog List View</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-blog-grid.html">Blog Grid View</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/page-blog-post.html">Blog Single Post</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                              </ul>
-                          </li>
-                          <li>
-                              <a href="javascript:;" class="c-link dropdown-toggle">Shop
-                                  <span class="c-arrow c-toggler"></span>
-                              </a>
-                              <ul class="dropdown-menu c-menu-type-mega c-menu-type-fullwidth" style="min-width: auto">
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Shop Pages 1</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-1.html" target="_blank">Shop Home 1</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-2.html">Shop Home 2</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-3.html">Shop Home 3</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-4.html">Shop Home 4</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-5.html">Shop Home 5</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-6.html">Shop Home 6</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-7.html">Shop Home 7</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-home-8.html" target="_blank">Shop Home 8</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Shop Pages 2</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-list.html">Product List</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-grid.html">Product Grid</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-search.html">Product Search</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-details.html">Product Details 1</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-details-2.html">Product Details 2</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-details-3.html">Product Details 3</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-details-4.html">Product Details 4</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-comparison.html">Product Comparison</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Shop Pages 3</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-product-wishlist.html">Wish List</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-customer-account.html">Customer Login/Register</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-customer-dashboard.html">Customer Dashboard</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-order-history.html">Order History</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-order-history-2.html">Order History 2</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-cart.html">Shopping Cart</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-cart-empty.html">Shopping Cart(empty)</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-checkout.html">Checkout</a>
-                                          </li>
-                                      </ul>
-                                  </li>
-                                  <li>
-                                      <ul class="dropdown-menu c-menu-type-inline">
-                                          <li>
-                                              <h3>Shop Pages 4</h3>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/shop-checkout-complete.html">Checkout Complete</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/component-shop-1.html">Shop Components 1</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/component-shop-2.html">Shop Components 2</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/component-shop-3.html">Shop Components 3</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/component-shop-4.html">Shop Components 4</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/component-shop-5.html">Shop Components 5</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/component-shop-6.html">Shop Components 6</a>
-                                          </li>
-                                          <li>
-                                              <a href="demos/default/component-shop-7.html">Shop Components 7</a>
                                           </li>
                                       </ul>
                                   </li>
@@ -1153,11 +796,7 @@
                               </a>
                           </li>
                           <li class="c-quick-sidebar-toggler-wrapper">
-                              <a href="#" class="c-quick-sidebar-toggler">
-                                  <span class="c-line"></span>
-                                  <span class="c-line"></span>
-                                  <span class="c-line"></span>
-                              </a>
+                            <a href="{{url('/login')}}" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-sm c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold"><i class="icon-user"></i> Login</a>
                           </li>
                       </ul>
                   </nav>
@@ -1249,7 +888,7 @@
               <div class="c-line"></div>
               <div class="c-body">
                   <div class="row">
-                      <div class="col-md-4 col-sm-6 col-xs-12">
+                      <div class="col-md-6 col-sm-6 col-xs-12">
                           <ul class="c-links c-theme-ul">
                               <li>
                                   <a href="#">About Jango</a>
@@ -1291,16 +930,7 @@
                               </li>
                           </ul>
                       </div>
-                      <div class="col-md-5 col-sm-6 col-xs-12">
-                          <div class="c-content-title-1 c-title-md">
-                              <h3 class="c-title c-font-uppercase c-font-bold">Latest Tweets</h3>
-                              <div class="c-line-left hide"></div>
-                          </div>
-                          <div class="c-twitter">
-                              <a class="twitter-timeline" href="https://twitter.com/themehats" data-tweet-limit="2" data-chrome="noheader nofooter noscrollbar noborders transparent"> Loading tweets by @themehats... </a>
-                          </div>
-                      </div>
-                      <div class="col-md-3 col-sm-12 col-xs-12">
+                      <div class="col-md-5 col-sm-12 col-xs-12">
                           <div class="c-content-title-1 c-title-md">
                               <h3 class="c-title c-font-uppercase c-font-bold">Contact Us</h3>
                               <div class="c-line-left hide"></div>
@@ -1313,10 +943,6 @@
                               <a href="mailto:info@jango.com">
                                   <span class="c-theme-color">info@jango.com</span>
                               </a>
-                              <br/> Skype:
-                              <a href="#">
-                                  <span class="c-theme-color">jango</span>
-                              </a>
                           </p>
                       </div>
                   </div>
@@ -1324,7 +950,7 @@
               <div class="c-line"></div>
               <div class="c-foot">
                   <div class="row">
-                      <div class="col-md-7">
+                      <div class="col-md-8">
                           <div class="c-content-title-1 c-title-md">
                               <h3 class="c-font-uppercase c-font-bold">About
                                   <span class="c-theme-font">JANGO</span>
@@ -1332,21 +958,6 @@
                               <div class="c-line-left hide"></div>
                           </div>
                           <p class="c-text c-font-16 c-font-regular">Tolerare unus ducunt ad brevis buxum. Est alter buxum, cesaris. Eheu, lura! Racanas crescere in emeritis oenipons! Ubi est rusticus repressor? Lixa grandis clabulare est. Eposs tolerare.</p>
-                      </div>
-                      <div class="col-md-5">
-                          <div class="c-content-title-1 c-title-md">
-                              <h3 class="c-font-uppercase c-font-bold">Subscribe to Newsletter</h3>
-                              <div class="c-line-left hide"></div>
-                          </div>
-                          <div class="c-line-left hide"></div>
-                          <form action="#">
-                              <div class="input-group input-group-lg c-square">
-                                  <input type="text" class="form-control c-square c-font-grey-3 c-border-grey c-theme" placeholder="Your Email Here" />
-                                  <span class="input-group-btn">
-                                      <button class="btn c-theme-btn c-theme-border c-btn-square c-btn-uppercase c-font-16" type="button">Subscribe</button>
-                                  </span>
-                              </div>
-                          </form>
                       </div>
                   </div>
               </div>

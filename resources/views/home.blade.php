@@ -7,20 +7,20 @@
             <ul>
                 <!--BEGIN: SLIDE #1 -->
                 <li data-transition="fade" data-slotamount="1" data-masterspeed="1000">
-                    <img alt="" src="{{asset('public/assets/base/img/content/backgrounds/bg-43.jpg')}}" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img alt="" src="{{asset('public/assets/base/img/content/backgrounds/bg-108.jpg')}}" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
                     <div class="tp-caption customin customout" data-x="center" data-y="center" data-hoffset="" data-voffset="-50" data-speed="500" data-start="1000" data-transform_idle="o:1;" data-transform_in="rX:0.5;scaleX:0.75;scaleY:0.75;o:0;s:500;e:Back.easeInOut;"
                         data-transform_out="rX:0.5;scaleX:0.75;scaleY:0.75;o:0;s:500;e:Back.easeInOut;" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-                        <h3 class="c-main-title-circle c-font-48 c-font-bold c-font-center c-font-uppercase c-font-white c-block"> TAKE THE WEB BY
+                        <h3 class="c-main-title-circle c-font-48 c-font-bold c-font-center c-font-uppercase c-font-white c-block" style=""> TAKE THE WEB BY
                             <br>STORM WITH JANGO </h3>
                     </div>
                 </li>
                 <!--END -->
                 <!--BEGIN: SLIDE #2 -->
                 <li data-transition="fade" data-slotamount="1" data-masterspeed="1000">
-                    <img alt="" src="{{asset('public/assets/base/img/content/backgrounds/bg-20.jpg')}}" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img alt="" src="{{asset('public/assets/base/img/content/backgrounds/bg-109.jpg')}}" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
                     <div class="tp-caption customin customout" data-x="center" data-y="center" data-hoffset="" data-voffset="-50" data-speed="500" data-start="1000" data-transform_idle="o:1;" data-transform_in="rX:0.5;scaleX:0.75;scaleY:0.75;o:0;s:500;e:Back.easeInOut;"
                         data-transform_out="rX:0.5;scaleX:0.75;scaleY:0.75;o:0;s:600;e:Back.easeInOut;" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-                        <h3 class="c-main-title-circle c-font-48 c-font-bold c-font-center c-font-uppercase c-font-white c-block"> JANGO IS OPTIMIZED
+                        <h3 class="c-main-title-circle c-font-48 c-font-bold c-font-center c-font-uppercase c-font-white c-block" style=""> JANGO IS OPTIMIZED
                             <br>TO EVERY DEVELOPMENT </h3>
                     </div>
                 </li>
@@ -28,12 +28,12 @@
                 <!--BEGIN: SLIDE #3 -->
                 <li data-transition="fade" data-slotamount="1" data-masterspeed="700" data-delay="6000" data-thumb="">
                     <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                    <img alt="" src="{{asset('public/assets/base/img/content/backgrounds/bg-19.jpg')}}" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="visible-xs" />
+                    <img alt="" src="{{asset('public/assets/base/img/content/backgrounds/bg-107.jpg')}}" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="visible-xs" />
                     <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="assets/base/media/video/video-2.mp4" data-videopreload="preload" data-videoloop="none"
                         data-forceCover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"> </div>
                     <div class="tp-caption customin customout" data-x="center" data-y="center" data-hoffset="" data-voffset="-30" data-speed="500" data-start="1000" data-transform_idle="o:1;" data-transform_in="rX:0.5;scaleX:0.75;scaleY:0.75;o:0;s:500;e:Back.easeInOut;"
                         data-transform_out="rX:0.5;scaleX:0.75;scaleY:0.75;o:0;s:600;e:Back.easeInOut;" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-                        <h3 class="c-main-title-circle c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white c-block"> Let us show you
+                        <h3 class="c-main-title-circle c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white c-block" style=""> Let us show you
                             <br>Unlimited possibilities </h3>
                     </div>
                 </li>
@@ -46,9 +46,10 @@
 <!-- BEGIN: CONTENT/SHOPS/SHOP-2-2 -->
 <div class="c-content-box c-size-md c-overflow-hide c-bs-grid-small-space">
 	<div class="container">
-		<div class="c-content-title-4">
-			<h3 class="c-font-uppercase c-center c-font-bold c-line-strike"><span class="c-bg-white">Most Popular</span></h3>
-		</div>
+		<div class="c-content-title-1">
+			<h3 class="c-center c-font-uppercase c-font-bold">Paket Paling Populer</h3>
+			<div class="c-line-center c-theme-bg"></div>
+        </div>
 		<div class="row">
 			<div data-slider="owl">
 				<div class="owl-carousel owl-theme c-theme owl-small-space c-owl-nav-center" data-rtl="false" data-items="4" data-slide-speed="8000">
@@ -218,7 +219,7 @@
 	</div>
 </div><!-- END: CONTENT/SHOPS/SHOP-2-2 -->
 <!-- BEGIN: CONTENT/MISC/PROMO-1-2 -->
-<div class="c-content-box c-size-lg c-bg-purple-1">
+<div class="c-content-box c-size-lg c-bg-blue">
 	<div class="container">
 		<div class="row">
 			<div class="c-shop-banner-3 c-center">
@@ -235,8 +236,9 @@
 <!-- BEGIN: CONTENT/SHOPS/SHOP-2-1 -->
 <div class="c-content-box c-size-md c-overflow-hide c-bs-grid-small-space c-bg-white">
 	<div class="container">
-		<div class="c-content-title-4">
-			<h3 class="c-font-uppercase c-center c-font-bold c-line-strike"><span class="c-bg-grey-1">Most Popular</span></h3>
+		<div class="c-content-title-1">
+			<h3 class="c-center c-font-uppercase c-font-bold">Layanan Kami</h3>
+			<div class="c-line-center c-theme-bg"></div>
 		</div>
 		<div class="row">
 			<div class="col-md-3 col-sm-6 c-margin-b-20">
