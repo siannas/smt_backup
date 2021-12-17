@@ -4,14 +4,12 @@
 <div class="c-layout-breadcrumbs-1 c-subtitle c-fonts-uppercase c-fonts-bold c-bordered c-bordered-both">
 	<div class="container">
 		<div class="c-page-title c-pull-left">
-			<h3 class="c-font-uppercase c-font-sbold">Product Grid</h3>
-			<h4 class="">Page Sub Title Goes Here</h4>
+			<h3 class="c-font-uppercase c-font-sbold">Penyakit Dalam</h3>
+			<h4 class="">Penyakit yang berada di dalam</h4>
 		</div>
 		<ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
-															<li><a href="shop-product-grid.html">Product Grid</a></li>
 			<li>/</li>
-															<li class="c-state_active">Jango Components</li>
-									
+			<li class="c-state_active">Penyakit Dalam</li>			
 		</ul>
 	</div>
 </div><!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-2 -->
@@ -28,180 +26,48 @@
 </div>
 <ul class="c-sidebar-menu collapse " id="sidebar-menu-1">
 	<li class="c-dropdown c-active c-open">
-		<a href="javascript:;" class="c-toggler">Active Section<span class="c-arrow"></span></a>
+		<a href="javascript:;" class="c-toggler">Layanan<span class="c-arrow"></span></a>
 		<ul class="c-dropdown-menu">
 			<li class="c-active">
-				<a href="#">Active Link</a>
+				<a href="#">Penyakit Dalam</a>
 			</li>
 			<li>
-				<a href="#">Example Link</a>
+				<a href="#">Bayi Tabung</a>
 			</li>
 			<li>
-				<a href="#">Example Link</a>
+				<a href="#">Imunologi</a>
 			</li>
 			<li>
-				<a href="#">Example Link</a>
-			</li>
-		</ul>
-	</li>
-	<li class="c-dropdown">
-		<a href="javascript:;" class="c-toggler">Sub Menu Section<span class="c-arrow"></span></a>
-		<ul class="c-dropdown-menu">
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li class="c-dropdown c-dropdown-sub">
-				<a href="javascript:;" class="c-toggler c-toggler-sub">Sub Menu
-				<span class="c-arrow"></span></a>
-				<ul class="c-dropdown-menu">
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-				</ul>
+				<a href="#">Mata</a>
 			</li>
 			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li class="c-dropdown">
-				<a href="javascript:;" class="c-toggler">Sub Menu<span class="c-arrow"></span></a>
-				<ul class="c-dropdown-menu">
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li class="c-dropdown">
-						<a href="javascript:;" class="c-toggler">Sub Menu<span class="c-arrow"></span></a>
-						<ul class="c-dropdown-menu">
-							<li>
-								<a href="#">Example Link</a>
-							</li>
-							<li>
-								<a href="#">Example Link</a>
-							</li>
-							<li>
-								<a href="#">Example Link</a>
-							</li>
-							<li>
-								<a href="#">Example Link</a>
-							</li>
-							<li>
-								<a href="#">Example Link</a>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-				</ul>
+				<a href="#">Patologi</a>
 			</li>
 			<li>
-				<a href="#">Example Link</a>
-			</li>
-		</ul>
-	</li>
-	<li class="c-dropdown">
-		<a href="javascript:;" class="c-toggler">Section With Icons<span class="c-arrow"></span></a>
-		<ul class="c-dropdown-menu">
-			<li>
-				<a href="#"><i class="icon-social-dribbble"></i> Example Link</a>
+				<a href="#">Syaraf</a>
 			</li>
 			<li>
-				<a href="#"><i class="icon-bell"></i> Example Link</a>
+				<a href="#">Jantung</a>
 			</li>
 			<li>
-				<a href="#"><i class="icon-bubbles"></i> Example Link</a>
-			</li>
-			<li>
-				<a href="#"><i class="icon-user"></i> Example Link</a>
-			</li>
-		</ul>
-	</li>
-	<li class="c-dropdown">
-		<a href="javascript:;" class="c-toggler">Expanded Section<span class="c-arrow"></span></a>
-		<ul class="c-dropdown-menu">
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-		</ul>
-	</li>
-	<li class="c-dropdown">
-		<a href="javascript:;">Arrow Toggler <span class="c-arrow c-toggler"></span></a>
-		<ul class="c-dropdown-menu">
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li>
-				<a href="#">Example Link</a>
-			</li>
-			<li class="c-dropdown">
-				<a href="javascript:;">Sub Menu
-				<span class="c-arrow c-toggler"></span></a>
-				<ul class="c-dropdown-menu">
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-					<li>
-						<a href="#">Example Link</a>
-					</li>
-				</ul>
+				<a href="#">Psikologi</a>
 			</li>
 		</ul>
 	</li>
 </ul>
 <div class="c-padding-20 c-margin-t-40 c-bg-grey-1 c-bg-img-bottom-right" style="background-image:url({{asset('public/assets/base/img/content/misc/feedback_box_2.png')}})">
 	<div class="c-content-title-1 c-margin-t-20">
-		<h3 class="c-font-uppercase c-font-bold">Have a question?</h3>
+		<h3 class="c-font-uppercase c-font-bold">Punya pertanyaan?</h3>
 		<div class="c-line-left"></div>
 		<form action="#">
 			<div class="input-group input-group-lg c-square">
-				<input type="text" class="form-control c-square" placeholder="Ask a question"/>
+				<input type="text" class="form-control c-square" placeholder="Pertanyaan"/>
 				<span class="input-group-btn">
 				<button class="btn c-theme-btn c-btn-square c-btn-uppercase c-font-bold" type="button">Go!</button>
 				</span>
 			</div>
 		</form>
-		<p class="c-font-thin">Ask your questions away and let our dedicated customer service help you look through our FAQs to get your questions answered!</p>
+		<p class="c-font-thin">Ajukan pertanyaan Anda dan biarkan Customer Service kami yang berdedikasi membantu Anda untuk mendapatkan jawaban atas pertanyaan Anda!</p>
 	</div>
 </div><!-- END: LAYOUT/SIDEBARS/SHOP-SIDEBAR-MENU -->
 </div>
@@ -244,26 +110,26 @@
 		<div class="col-md-3 col-sm-6 c-margin-b-20">
 			<div class="c-content-product-2 c-bg-white c-border">
 				<div class="c-content-overlay">
-					<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
+					<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">RS Islam Surabaya</div>
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/100.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Smartphone & Handset</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -273,23 +139,23 @@
 				<div class="c-content-overlay">
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/83.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-2.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Camera Lens</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -297,27 +163,27 @@
 		<div class="col-md-3 col-sm-6 c-margin-b-20">
 			<div class="c-content-product-2 c-bg-white c-border">
 				<div class="c-content-overlay">
-					<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
+					<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Siloam Hospital</div>
 					<div class="c-label c-label-right c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">New</div>
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/95.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-3.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Shoes & Tie</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -327,23 +193,23 @@
 				<div class="c-content-overlay">
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/98.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-4.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Smartphone & Handset</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -358,23 +224,23 @@
 					<div class="c-label c-label-right c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">New</div>
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/101.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Watches</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -385,23 +251,23 @@
 					<div class="c-label c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">New</div>
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/93.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Exclusive Watches</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -411,23 +277,23 @@
 				<div class="c-content-overlay">
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/96.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Watches</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -437,23 +303,23 @@
 				<div class="c-content-overlay">
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/53.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">iMac, iPad & iPhone</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -467,23 +333,23 @@
 					<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/93.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Watches</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -493,23 +359,23 @@
 				<div class="c-content-overlay">
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/101.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Exclusive Watches</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -519,23 +385,23 @@
 				<div class="c-content-overlay">
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/100.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">Watches</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
@@ -545,23 +411,23 @@
 				<div class="c-content-overlay">
 					<div class="c-overlay-wrapper">
 						<div class="c-overlay-content">
-							<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+							<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 						</div>
 					</div>
-					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/assets/base/img/content/shop2/102.jpg')}});"></div>
+					<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 230px; background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
 				</div>
 				<div class="c-info">
-					<p class="c-title c-font-16 c-font-slim">iMac, iPad & iPhone</p>
-					<p class="c-price c-font-14 c-font-slim">$548 &nbsp;
-						<span class="c-font-14 c-font-line-through c-font-red">$600</span>
+					<p class="c-title c-font-16 c-font-slim">Staycation</p>
+					<p class="c-font-14 c-font-slim ellipsis-g clamp-2">
+						Medical Check-up, makan sate Ondomohen, belajar Batik, dan ke pusat oleh-oleh.
+					</p>
+					<p class="c-price c-font-14 c-font-slim">Rp5.050.000 &nbsp;
+						<span class="c-font-14 c-font-line-through c-font-red">Rp5.000.000</span>
 					</p>
 				</div>
 				<div class="btn-group btn-group-justified" role="group">
 					<div class="btn-group c-border-top" role="group">
-						<a href="shop-product-wishlist.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Wishlist</a>
-					</div>
-					<div class="btn-group c-border-left c-border-top" role="group">
-						<a href="shop-cart.html" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-red-2-hover c-btn-product">Cart</a>
+						<a href="" class="btn btn-sm c-btn-white c-btn-uppercase c-btn-square c-font-grey-3 c-font-white-hover c-bg-blue-2-hover c-btn-product"><i class="fa fa-plus"></i> Keranjang</a>
 					</div>
 				</div>
 			</div>
