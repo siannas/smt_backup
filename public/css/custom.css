@@ -68,3 +68,19 @@
 .owl-mt-0 .owl-controls{
     margin-top: 0;
 }
+
+.ellipsis-g{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.clamp-2{
+    -webkit-line-clamp: 2;
+}
+
+.bg-bundle-1{
+    background-size: auto 270px;
+    height: 270px;
+}
