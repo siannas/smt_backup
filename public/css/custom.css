@@ -19,12 +19,13 @@
 }
 
 .c-collapse-1 > .collapse-content{
-    max-height: 4em;
+    max-height: 4.2em;
     overflow: hidden;
 }
 
 .c-collapse-1.show > .collapse-content{
     max-height: unset;
+    display: unset;
 }
 
 .c-collapse-1 .c-toggle-open{
@@ -78,6 +79,10 @@
 
 .clamp-2{
     -webkit-line-clamp: 2;
+}
+
+.clamp-3{
+    -webkit-line-clamp: 3;
 }
 
 .bg-bundle-1{
