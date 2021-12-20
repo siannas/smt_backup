@@ -2,6 +2,15 @@
     display: block;
 }
 
+.d-inline-block{
+    display: inline-block;
+}
+
+.vertical-align-middle-1 > *{
+    vertical-align: middle;
+    line-height: normal;
+}
+
 .position-relative{
     position: relative;
 }

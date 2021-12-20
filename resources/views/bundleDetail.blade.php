@@ -112,16 +112,26 @@ Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan b
 								<div class="d-block" >
 									<p class="c-product-margin-2 c-font-uppercase c-font-bold">Tim Dokter</p>
 								</div>
-								<div data-slider="owl">
-								<div class="owl-carousel owl-theme c-theme c-owl-nav-center owl-mt-0" data-items="4" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="2"  data-auto-play="false" data-rtl="false" data-slide-speed="0" data-auto-play-hover-pause="true"> 
-									@for($i=0;$i<16;$i++)
-			 						<div class="item">
+								<div class="vertical-align-middle-1 c-margin-b-20" id="doctor-container">
+									<div class="d-inline-block" style="width:116px;"  data-toggle="collapse" href="#collapseDoctors" role="button" aria-expanded="true" aria-controls="collapseDoctors">
 										<div class="img-resp-1">
-											<img src="{{asset('public/assets/base/img/content/team/team16.jpg')}}">
+											<img src="{{asset('public/img/profile-place.png')}}" id="doctor-img">
 										</div>
+									</div>
+									<h3 class="d-inline-block" id="doctor-name">Pilih Dokter</h3>
+								</div>
+								<div class="collapse in" id="collapseDoctors">
+								<div data-slider="owl">
+								<div class="owl-carousel owl-theme c-theme c-owl-nav-center owl-mt-0" data-items="4" data-desktop-items="4" data-desktop-small-items="4" data-tablet-items="4" data-mobile-small-items="4"  data-auto-play="false" data-rtl="false" data-slide-speed="0" data-auto-play-hover-pause="true"> 
+									@for($i=0;$i<8;$i++)
+			 						<div class="item">
+										<a href="javascript:selectDoctor('{{asset('public/assets/base/img/content/team/team16.jpg')}}','dr.Gunawan Mahendra')" class="img-resp-1 d-block">
+											<img src="{{asset('public/assets/base/img/content/team/team16.jpg')}}">
+										</a>
 										<p class="txt-ellipsis-1">dr.Gunawan Mahendra</p>
 									</div>
 									@endfor
+								</div>
 								</div>
 								</div>
 							</div>
@@ -158,7 +168,8 @@ Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan b
 		</div>
 		<div class="tab-content">
 			<div role="tabpanel" class="tab-pane c-bg-white fade in active" id="tab-1"> 
-				<div class="container">
+				<div class="container c-margin-b-20">
+					<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Galeri</h2>
 					<div id="grid-container" class="cbp">
 						<div class="cbp-item identity logos">
 							<a href="{{asset('public/assets/base/img/content/stock/34.jpg')}}" class="cbp-caption cbp-lightbox" data-title="Dashboard<br>by Paul Flavius Nechita">
@@ -809,4 +820,37 @@ Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan b
 		</div>
 	</div>
 </div><!-- END: CONTENT/SHOPS/SHOP-2-2 -->
+@endsection
+
+@section('script')
+<script type="application/javascript">
+const selectDoctor = function(src, name){
+	const container=$('#doctor-container');
+	container.find('#doctor-img').attr('src',src);
+	container.find('#doctor-name').text(name);
+	$('#collapseDoctors').collapse('hide');
+}
+
+$(document).ready(function(){
+	//Atur galeri hanya maksimal 1 row saja;
+	const galeri=$('#grid-container');
+	const width=galeri.width();
+	if(screen.width>1200){
+		galeri.css('max-height',width/5);
+	}
+	else if(screen.width>800){
+		galeri.css('max-height',width/4);
+	}
+	else if(screen.width>500){
+		galeri.css('max-height',width/3);
+	}
+	else if(screen.width>320){
+		galeri.css('max-height',width/2);
+	}
+	else{
+		galeri.css('max-height',width);
+	}
+});
+</script>
+<script src="{{asset('public/assets/demos/default/js/scripts/pages/fullwidth-gallery.js')}}" type="text/javascript"></script>
 @endsection
