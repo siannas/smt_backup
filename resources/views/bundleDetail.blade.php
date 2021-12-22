@@ -4,13 +4,13 @@
 <div class="c-layout-breadcrumbs-1 c-subtitle c-fonts-uppercase c-fonts-bold c-bordered c-bordered-both">
 	<div class="container">
 		<div class="c-page-title c-pull-left">
-			<h3 class="c-font-uppercase c-font-sbold">Product Details 2</h3>
-			<h4 class="">Page Sub Title Goes Here</h4>
+			<h3 class="c-font-uppercase c-font-sbold">Detail Bundle</h3>
+			<h4 class="">Penjelasan Lebih Detail Mengenai Bundle</h4>
 		</div>
 		<ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
-															<li><a href="shop-product-details-2.html">Product Details 2</a></li>
+			<li><a href="{{url('/bundle/shop')}}">Penyakit Dalam</a></li>
 			<li>/</li>
-															<li class="c-state_active">Jango Components</li>
+			<li class="c-state_active">Staycation 1</li>
 									
 		</ul>
 	</div>
@@ -155,22 +155,98 @@ Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan b
 	<div class="c-shop-product-tab-1" role="tabpanel">
 		<div class="container">
 			<ul class="nav nav-justified" role="tablist">
+				<li role="presentation">
+					<a class="c-font-uppercase c-font-bold" href="#tab-1" role="tab" data-toggle="tab">Deskripsi</a>
+				</li>
 				<li role="presentation" class="active">
-					<a class="c-font-uppercase c-font-bold" href="#tab-1" role="tab" data-toggle="tab">Description</a>
+					<a class="c-font-uppercase c-font-bold" href="#tab-2" role="tab" data-toggle="tab">Galeri</a>
 				</li>
 				<li role="presentation">
-					<a class="c-font-uppercase c-font-bold" href="#tab-2" role="tab" data-toggle="tab">Additional Information</a>
-				</li>
-				<li role="presentation">
-					<a class="c-font-uppercase c-font-bold" href="#tab-3" role="tab" data-toggle="tab">Reviews (3)</a>
+					<a class="c-font-uppercase c-font-bold" href="#tab-3" role="tab" data-toggle="tab">Ulasan (3)</a>
 				</li>
 			</ul>
 		</div>
 		<div class="tab-content">
-			<div role="tabpanel" class="tab-pane c-bg-white fade in active" id="tab-1"> 
+			<div role="tabpanel" class="tab-pane c-bg-white fade" id="tab-1"> 
+				<div class="container ">
+					<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Fasilitas</h2>
+					<div class="row">
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspKolam Renang</a>
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspCafe</a>
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspIndoor Playground</a>
+						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspMusholla</a>
+					</div>
+					<h3 class="c-margin-t-20 c-border-bottom"></h3>
+				</div>
+				<div class="container ">
+				<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Tentang</h2>
+					<div class="c-shop-cart-page-1">
+						<!-- BEGIN: ITEM ROW -->
+						<div class="row">
+							<h2 class="c-font-uppercase c-font-bold c-theme-bg c-font-white c-cart-item-title c-cart-item-first">Item 1</h2>
+							<div class="col-md-2 c-cart-image">
+								<h3>Kebijakan</h3>
+							</div>
+							<div class="col-md-10 c-cart-desc c-border-bottom c-collapse-1 position-relative">
+								<div class="collapse-content ellipsis-g clamp-3">
+									<h4><b>Anak</b></h4>
+									<p>Tamu umur berapa pun bisa menginap di sini.</p><p>Anak-anak 13 tahun ke atas dianggap sebagai tamu dewasa.</p><p>Pastikan umur anak yang menginap sesuai dengan detail pemesanan. Jika berbeda, tamu mungkin akan dikenakan biaya tambahan saat check-in.</p>
+									<br>
+									<h4><b>Deposit</b></h4>
+									<p>Tamu perlu membayar deposit saat check-in.</p>
+									<br>
+									<h4><b>Umur</b></h4>
+									<p>Tamu umur berapa pun bisa menginap di sini.</p>
+									<br>
+									<h4><b>Sarapan</b></h4>
+									<p>Sarapan tersedia pukul 06:00 - 10:00 waktu lokal.</p>
+									<br>
+									<h4><b>Hewan peliharaan</b></h4>
+									<p>Tidak diperbolehkan membawa hewan peliharaan.</p>
+									<br>
+									<h4><b>Merokok</b></h4>
+									<p>Tamu diperbolehkan merokok.</p>
+									<br>
+									<h4><b>Alkohol</b></h4>
+									<p>Minuman beralkohol tidak diperbolehkan.</p>
+									<br>
+								</div>
+								<div class="c-center c-margin-b-20 c-margin-t-30 w-100">
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-open"><i class="fa fa-chevron-down"></i>&nbsp Lihat Semua</button>
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-close"><i class="fa fa-chevron-up"></i>&nbsp Sembunyikan</button>
+								</div>
+							</div>
+							<div class="col-md-2 c-cart-image c-margin-t-30">
+								<h3>Deskripsi</h3>
+							</div>
+							<div class="col-md-10 c-cart-desc c-collapse-1 position-relative c-margin-t-30">
+								<div class="collapse-content ellipsis-g clamp-3">
+									<p>Berada di lokasi yang strategis di Jalan Jaksa, Jakarta Pusat, Dafam Express Jaksa Jakarta dikelilingi pertokoan dan perkantoran. Monas dan Grand Indonesia dapat ditempuh hanya dalam waktu 5 menit berkendara dari hotel. Resepsionis 24 jam siap menyambut kamu di properti ini. WiFi gratis tersedia di seluruh area hotel.
+
+Setiap kamar memiliki jendela dengan pemandangan Jakarta dan dihiasi dinding dengan warna cerah atau lukisan. AC, TV layar datar dan meja kerja tersedia di semua kamar yang ditata dengan gaya minimalis. Setiap kamar mandi dilengkapi shower dan peralatan mandi gratis.
+
+Dafam Express Jaksa Jakarta menyajikan beragam pilihan makanan di Bites & Break. Selain itu, kamu dapat mengunjungi Pusat Kuliner Sabang dan Nasi Goreng Kambing Kebon Sirih hanya dengan berjalan kaki selama 5 menit. Kamu juga dapat mencicipi hidangan dari berbagai budaya, seperti Korea dan Arab, dari restoran-restoran yang tersedia di sekitar hotel. 
+
+Layanan laundry dan penyetrikaan dengan biaya ekstra bisa kamu gunakan selama menginap di hotel. Untuk mengatur kunjungan wisata, kamu bisa langsung menghubungi meja layanan wisata di Dafam Express Jaksa Jakarta. 
+
+Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan berkendara selama 9 menit. Stasiun Gambir dapat dicapai dengan berkendara 5 menit. Bandara terdekat dari hotel adalah Halim Perdanakusuma Airport sejauh 15,3 km, sedangkan Soekarno-Hatta International Airport berjarak 31 km. </p>
+									<br>
+								</div>
+								<div class="c-center c-margin-b-20 c-margin-t-30 w-100">
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-open"><i class="fa fa-chevron-down"></i>&nbsp Lihat Semua</button>
+								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-close"><i class="fa fa-chevron-up"></i>&nbsp Sembunyikan</button>
+								</div>
+							</div>
+						</div>
+						<!-- END: ITEM ROW -->					
+					</div>
+					<h3 class="c-margin-t-40 c-border-bottom"></h3>
+				</div>
+			</div>
+
+			<div role="tabpanel" class="tab-pane fade in active" id="tab-2">
 				<div class="container c-margin-b-20">
-					<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Galeri</h2>
-					<div id="grid-container" class="cbp">
+					<div id="grid-container" class="cbp" style="margin-top:20px;">
 						<div class="cbp-item identity logos">
 							<a href="{{asset('public/assets/base/img/content/stock/34.jpg')}}" class="cbp-caption cbp-lightbox" data-title="Dashboard<br>by Paul Flavius Nechita">
 								<div class="cbp-caption-defaultWrap">
@@ -398,87 +474,6 @@ Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan b
 						</div>
 					</div>
 				</div>
-				<div class="container ">
-					<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Fasilitas</h2>
-					<div class="row">
-						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspKolam Renang</a>
-						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspCafe</a>
-						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspIndoor Playground</a>
-						<a href="javascript:void(0);" class="col-6 col-md-4 c-margin-b-20"><i class="fa fa-certificate"></i>&nbspMusholla</a>
-					</div>
-					<h3 class="c-margin-t-20 c-border-bottom"></h3>
-				</div>
-				<div class="container ">
-				<h2 class="c-left c-font-lowercase c-font-sbold c-margin-b-20">Tentang</h2>
-					<div class="c-shop-cart-page-1">
-						<!-- BEGIN: ITEM ROW -->
-						<div class="row">
-							<h2 class="c-font-uppercase c-font-bold c-theme-bg c-font-white c-cart-item-title c-cart-item-first">Item 1</h2>
-							<div class="col-md-2 c-cart-image">
-								<h3>Kebijakan</h3>
-							</div>
-							<div class="col-md-10 c-cart-desc c-border-bottom c-collapse-1 position-relative">
-								<div class="collapse-content ellipsis-g clamp-3">
-									<h4><b>Anak</b></h4>
-									<p>Tamu umur berapa pun bisa menginap di sini.</p><p>Anak-anak 13 tahun ke atas dianggap sebagai tamu dewasa.</p><p>Pastikan umur anak yang menginap sesuai dengan detail pemesanan. Jika berbeda, tamu mungkin akan dikenakan biaya tambahan saat check-in.</p>
-									<br>
-									<h4><b>Deposit</b></h4>
-									<p>Tamu perlu membayar deposit saat check-in.</p>
-									<br>
-									<h4><b>Umur</b></h4>
-									<p>Tamu umur berapa pun bisa menginap di sini.</p>
-									<br>
-									<h4><b>Sarapan</b></h4>
-									<p>Sarapan tersedia pukul 06:00 - 10:00 waktu lokal.</p>
-									<br>
-									<h4><b>Hewan peliharaan</b></h4>
-									<p>Tidak diperbolehkan membawa hewan peliharaan.</p>
-									<br>
-									<h4><b>Merokok</b></h4>
-									<p>Tamu diperbolehkan merokok.</p>
-									<br>
-									<h4><b>Alkohol</b></h4>
-									<p>Minuman beralkohol tidak diperbolehkan.</p>
-									<br>
-								</div>
-								<div class="c-center c-margin-b-20 c-margin-t-30 w-100">
-								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-open"><i class="fa fa-chevron-down"></i>&nbsp Lihat Semua</button>
-								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-close"><i class="fa fa-chevron-up"></i>&nbsp Sembunyikan</button>
-								</div>
-							</div>
-							<div class="col-md-2 c-cart-image c-margin-t-30">
-								<h3>Deskripsi</h3>
-							</div>
-							<div class="col-md-10 c-cart-desc c-collapse-1 position-relative c-margin-t-30">
-								<div class="collapse-content ellipsis-g clamp-3">
-									<p>Berada di lokasi yang strategis di Jalan Jaksa, Jakarta Pusat, Dafam Express Jaksa Jakarta dikelilingi pertokoan dan perkantoran. Monas dan Grand Indonesia dapat ditempuh hanya dalam waktu 5 menit berkendara dari hotel. Resepsionis 24 jam siap menyambut kamu di properti ini. WiFi gratis tersedia di seluruh area hotel.
-
-Setiap kamar memiliki jendela dengan pemandangan Jakarta dan dihiasi dinding dengan warna cerah atau lukisan. AC, TV layar datar dan meja kerja tersedia di semua kamar yang ditata dengan gaya minimalis. Setiap kamar mandi dilengkapi shower dan peralatan mandi gratis.
-
-Dafam Express Jaksa Jakarta menyajikan beragam pilihan makanan di Bites & Break. Selain itu, kamu dapat mengunjungi Pusat Kuliner Sabang dan Nasi Goreng Kambing Kebon Sirih hanya dengan berjalan kaki selama 5 menit. Kamu juga dapat mencicipi hidangan dari berbagai budaya, seperti Korea dan Arab, dari restoran-restoran yang tersedia di sekitar hotel. 
-
-Layanan laundry dan penyetrikaan dengan biaya ekstra bisa kamu gunakan selama menginap di hotel. Untuk mengatur kunjungan wisata, kamu bisa langsung menghubungi meja layanan wisata di Dafam Express Jaksa Jakarta. 
-
-Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan berkendara selama 9 menit. Stasiun Gambir dapat dicapai dengan berkendara 5 menit. Bandara terdekat dari hotel adalah Halim Perdanakusuma Airport sejauh 15,3 km, sedangkan Soekarno-Hatta International Airport berjarak 31 km. </p>
-									<br>
-								</div>
-								<div class="c-center c-margin-b-20 c-margin-t-30 w-100">
-								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-open"><i class="fa fa-chevron-down"></i>&nbsp Lihat Semua</button>
-								<button class="btn c-btn-blue-2 c-btn-border-1x c-btn-circle c-toggle-close"><i class="fa fa-chevron-up"></i>&nbsp Sembunyikan</button>
-								</div>
-							</div>
-						</div>
-						<!-- END: ITEM ROW -->					
-					</div>
-					<h3 class="c-margin-t-40 c-border-bottom"></h3>
-				</div>
-			</div>
-
-			<div role="tabpanel" class="tab-pane fade" id="tab-2">
-				<div class="container">
-					<p class="c-center"><strong>Sizes:</strong> S, M, L, XL</p><br>
-					<p class="c-center"><strong>Colors:</strong> Red, Black, Beige, White</p><br/>
-				</div>
 				<div class="c-product-tab-meta-bg c-bg-grey c-center">
 					<div class="container">
 						<p class="c-product-tab-meta"><strong>SKU:</strong> 1410SL</p>
@@ -488,7 +483,7 @@ Dari Dafam Express Jaksa Jakarta, kamu bisa mengunjungi Museum Nasional dengan b
 			</div>
 			<div role="tabpanel" class="tab-pane fade" id="tab-3">
 				<div class="container">
-					<h3 class="c-font-uppercase c-font-bold c-font-22 c-center c-margin-b-40 c-margin-t-40">Reviews for Warm Winter Jacket</h3>
+					<h3 class="c-font-uppercase c-font-bold c-font-22 c-center c-margin-b-40 c-margin-t-40">Ulasan Untuk Paket Staycation 1</h3>
 					<div class="row">
 						<div class="col-xs-6">
 							<div class="c-user-avatar">
@@ -831,26 +826,26 @@ const selectDoctor = function(src, name){
 	$('#collapseDoctors').collapse('hide');
 }
 
-$(document).ready(function(){
-	//Atur galeri hanya maksimal 1 row saja;
-	const galeri=$('#grid-container');
-	const width=galeri.width();
-	if(screen.width>1200){
-		galeri.css('max-height',width/5);
-	}
-	else if(screen.width>800){
-		galeri.css('max-height',width/4);
-	}
-	else if(screen.width>500){
-		galeri.css('max-height',width/3);
-	}
-	else if(screen.width>320){
-		galeri.css('max-height',width/2);
-	}
-	else{
-		galeri.css('max-height',width);
-	}
-});
+// $(document).ready(function(){
+// 	//Atur galeri hanya maksimal 1 row saja;
+// 	const galeri=$('#grid-container');
+// 	const width=galeri.width();
+// 	if(screen.width>1200){
+// 		galeri.css('max-height',width/5);
+// 	}
+// 	else if(screen.width>800){
+// 		galeri.css('max-height',width/4);
+// 	}
+// 	else if(screen.width>500){
+// 		galeri.css('max-height',width/3);
+// 	}
+// 	else if(screen.width>320){
+// 		galeri.css('max-height',width/2);
+// 	}
+// 	else{
+// 		galeri.css('max-height',width);
+// 	}
+// });
 </script>
 <script src="{{asset('public/assets/demos/default/js/scripts/pages/fullwidth-gallery.js')}}" type="text/javascript"></script>
 @endsection

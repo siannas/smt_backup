@@ -28,30 +28,14 @@
 	<li class="c-dropdown c-active c-open">
 		<a href="javascript:;" class="c-toggler">Layanan<span class="c-arrow"></span></a>
 		<ul class="c-dropdown-menu">
-			<li class="c-active">
-				<a href="#">Penyakit Dalam</a>
-			</li>
-			<li>
-				<a href="#">Bayi Tabung</a>
-			</li>
-			<li>
-				<a href="#">Imunologi</a>
-			</li>
-			<li>
-				<a href="#">Mata</a>
-			</li>
-			<li>
-				<a href="#">Patologi</a>
-			</li>
-			<li>
-				<a href="#">Syaraf</a>
-			</li>
-			<li>
-				<a href="#">Jantung</a>
-			</li>
-			<li>
-				<a href="#">Psikologi</a>
-			</li>
+			<li class="c-active"><a href="#">Penyakit Dalam</a></li>
+			<li><a href="#">Bayi Tabung</a></li>
+			<li><a href="#">Imunologi</a></li>
+			<li><a href="#">Mata</a></li>
+			<li><a href="#">Patologi</a></li>
+			<li><a href="#">Syaraf</a></li>
+			<li><a href="#">Jantung</a></li>
+			<li><a href="#">Psikologi</a></li>
 		</ul>
 	</li>
 </ul>
@@ -72,8 +56,8 @@
 </div><!-- END: LAYOUT/SIDEBARS/SHOP-SIDEBAR-MENU -->
 </div>
 <div class="c-layout-sidebar-content ">
-			<!-- BEGIN: PAGE CONTENT -->
-			<!-- BEGIN: CONTENT/SHOPS/SHOP-RESULT-FILTER-1 -->
+<!-- BEGIN: PAGE CONTENT -->
+<!-- BEGIN: CONTENT/SHOPS/SHOP-RESULT-FILTER-1 -->
 <div class="c-shop-result-filter-1 clearfix form-inline">
 	<div class="c-filter">
 		<label class="control-label c-font-16">Show:</label>

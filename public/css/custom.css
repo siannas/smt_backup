@@ -98,3 +98,14 @@
     background-size: auto 270px;
     height: 270px;
 }
+
+.font_faq{
+    font-size:25px !important; 
+    margin-right:10px !important;
+}
+.padding_faq{
+    padding:15px !important;
+}
+.desc_faq{
+    font-size: 18px !important;
+}

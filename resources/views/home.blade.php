@@ -59,7 +59,7 @@
 								<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
+										<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object bg-bundle-1" data-height="height" style=" background-image: url({{asset('public/img/bundle-1.jpg')}});"></div>
@@ -95,7 +95,7 @@
 								<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
+										<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object bg-bundle-1" data-height="height" style=" background-image: url({{asset('public/img/bundle-2.jpg')}});"></div>
@@ -131,7 +131,7 @@
 								<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
+										<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object bg-bundle-1" data-height="height" style=" background-image: url({{asset('public/img/bundle-3.jpg')}});"></div>
@@ -168,7 +168,7 @@
 								<div class="c-label c-label-right c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">BARU</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
+										<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object bg-bundle-1" data-height="height" style=" background-image: url({{asset('public/img/bundle-4.jpg')}});"></div>
@@ -204,7 +204,7 @@
 								<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
+										<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object bg-bundle-1" data-height="height" style=" background-image: url({{asset('public/img/bundle-5.jpg')}});"></div>
@@ -241,7 +241,7 @@
 								<div class="c-label c-label-right c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">Terlaris</div>
 								<div class="c-overlay-wrapper">
 									<div class="c-overlay-content">
-										<a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
+										<a href="{{url('/bundle/detail')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Lihat</a>
 									</div>
 								</div>
 								<div class="c-bg-img-center-contain c-overlay-object bg-bundle-1" data-height="height" style=" background-image: url({{asset('public/img/bundle-6.jpg')}});"></div>
@@ -283,7 +283,7 @@
 			<div class="c-shop-banner-3 c-center">
 				<h3 class="c-title c-font-uppercase c-font-bold c-font-35 c-font-white">New Summer Collection</h3>
 				<p class="c-desc c-font-uppercase c-font-bold c-font-25 c-font-yellow-1">70% Off With Promo</p>
-				<button class="btn btn-lg c-btn-white c-btn-border-1x c-btn-square c-btn-bold">EXPLORE</button>
+				<button class="btn btn-lg c-btn-white c-btn-border-1x c-btn-square c-btn-bold">LIHAT</button>
 				<button class="btn btn-lg c-btn-white c-btn-square c-btn-bold">PURCHASE</button>
 			</div>
 		</div>
@@ -306,7 +306,7 @@
 						<div class="c-label c-label-right c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">New</div>
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/93.jpg')}});"></div>
@@ -321,7 +321,7 @@
 					<div class="c-content-overlay">
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/95.jpg')}});"></div>
@@ -336,7 +336,7 @@
 					<div class="c-content-overlay">
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/91.jpg')}});"></div>
@@ -352,7 +352,7 @@
 						<div class="c-label c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">New</div>
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/88.jpg')}});"></div>
@@ -371,7 +371,7 @@
 						<div class="c-label c-bg-red c-font-uppercase c-font-white c-font-13 c-font-bold">Sale</div>
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/89.jpg')}});"></div>
@@ -386,7 +386,7 @@
 					<div class="c-content-overlay">
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/96.jpg')}});"></div>
@@ -401,7 +401,7 @@
 					<div class="c-content-overlay">
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/102.jpg')}});"></div>
@@ -417,7 +417,7 @@
 						<div class="c-label c-theme-bg c-font-uppercase c-font-white c-font-13 c-font-bold">New</div>
 						<div class="c-overlay-wrapper">
 							<div class="c-overlay-content">
-								<a href="shop-product-details.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+								<a href="{{url('/bundle/shop')}}" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">LIHAT</a>
 							</div>
 						</div>
 						<div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url({{asset('public/assets/base/img/content/shop2/100.jpg')}});"></div>
@@ -452,7 +452,7 @@
 							<img src="{{asset('public/assets/base/img/content/team/team7.jpg')}}" class="img-responsive">
 							<div class="c-person-detail c-font-uppercase">
 								<h4 class="c-name c-font-white">Mike Benson</h4>
-								<p class="c-position c-font-bold c-theme-font">CFO, Loop Inc</p>
+								<p class="c-position c-font-bold c-theme-font font_faq">CFO, Loop Inc</p>
 							</div>
 						</div>
 					</div>
@@ -466,7 +466,7 @@
 							<img src="{{asset('public/assets/base/img/content/team/team3.jpg')}}" class="img-responsive">
 							<div class="c-person-detail c-font-uppercase">
 								<h4 class="c-name c-font-white">John Doe</h4>
-								<p class="c-position c-font-bold c-theme-font">CTO, Google Inc</p>
+								<p class="c-position c-font-bold c-theme-font font_faq">CTO, Google Inc</p>
 							</div>
 						</div>
 					</div>
@@ -491,72 +491,72 @@
                 <div class="panel-group" id="accordion" role="tablist">
                     <div class="panel">
                         <div class="panel-heading" role="tab" id="heading1">
-                            <h4 class="panel-title">
-                                <a class="" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1"> <i class="c-theme-font fa fa-check-circle-o c-theme-font"></i> Where can I find JANGO?</a>
+                            <h4 class="panel-title padding_faq">
+                                <a class="" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1"> <i class="c-theme-font fa fa-check-circle-o c-theme-font font_faq"></i> Where can I find JANGO?</a>
                             </h4>
                         </div>
                         <div id="collapse1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading1">
-                            <div class="panel-body">
+                            <div class="panel-body desc_faq">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
                             </div>
                         </div>
                     </div>
                     <div class="panel">
                         <div class="panel-heading" role="tab" id="heading2">
-                            <h4 class="panel-title">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2"><i class="c-theme-font fa fa-life-ring c-theme-font"></i> JANGO Feedback</a>
+                            <h4 class="panel-title padding_faq">
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2"><i class="c-theme-font fa fa-life-ring c-theme-font font_faq"></i> JANGO Feedback</a>
                             </h4>
                         </div>
                         <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
-                            <div class="panel-body">
+                            <div class="panel-body desc_faq">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
                             </div>
                         </div>
                     </div>
                     <div class="panel">
                         <div class="panel-heading" role="tab" id="heading3">
-                            <h4 class="panel-title">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3"><i class="c-theme-font fa fa-question c-theme-font"></i> How Do I Get Support From JANGO?</a>
+                            <h4 class="panel-title padding_faq">
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3"><i class="c-theme-font fa fa-question c-theme-font font_faq"></i> How Do I Get Support From JANGO?</a>
                             </h4>
                         </div>
                         <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
-                            <div class="panel-body">
+                            <div class="panel-body desc_faq">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
                             </div>
                         </div>
                     </div>
                     <div class="panel">
                         <div class="panel-heading" role="tab" id="heading4">
-                            <h4 class="panel-title">
+                            <h4 class="panel-title padding_faq">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4"><i class="c-theme-font fa fa-credit-card"></i> Which Payment Option Do I Choose?</a>
                             </h4>
                         </div>
                         <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
-                            <div class="panel-body">
+                            <div class="panel-body desc_faq">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
                             </div>
                         </div>
                     </div>
                     <div class="panel">
                         <div class="panel-heading" role="tab" id="heading5">
-                            <h4 class="panel-title">
+                            <h4 class="panel-title padding_faq">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5"><i class="c-theme-font fa fa-copyright"></i> Can I use trademarked names in my items?</a>
                             </h4>
                         </div>
                         <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
-                            <div class="panel-body">
+                            <div class="panel-body desc_faq">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
                             </div>
                         </div>
                     </div>
                     <div class="panel">
                         <div class="panel-heading" role="tab" id="heading6">
-                            <h4 class="panel-title">
+                            <h4 class="panel-title padding_faq">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6"><i class="c-theme-font fa fa-history"></i> Historical Payment Rates</a>
                             </h4>
                         </div>
                         <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
-                            <div class="panel-body">
+                            <div class="panel-body desc_faq">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
                             </div>
                         </div>
@@ -574,7 +574,7 @@
         <div class="c-content-client-logos-slider-1  c-bordered" data-slider="owl">
             <!-- Begin: Title 1 component -->
             <div class="c-content-title-1">
-                <h3 class="c-center c-font-uppercase c-font-bold">HOSPITALS</h3>
+                <h3 class="c-center c-font-uppercase c-font-bold">Rumah Sakit</h3>
                 <div class="c-line-center c-theme-bg"></div>
             </div>
             <!-- End-->
